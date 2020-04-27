@@ -3,7 +3,7 @@
   "typeRoots": [ "../node_modules/@types" ],
   "compileOnSave": false,
   "compilerOptions": {
-    "module": "esnext",
+    "module": "commonjs",
     "skipLibCheck": true,
     "removeComments": true,
     "emitDecoratorMetadata": true,
